@@ -1,0 +1,10 @@
+{
+  "name": "@pra/application",
+  "version": "0.1.0",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "dependencies": {
+    "@pra/domain": "workspace:*",
+    "@pra/shared": "workspace:*"
+  }
+}
